@@ -1,0 +1,185 @@
+{
+	"books": [{
+			"id": 1,
+			"name": "scion of ikshwaku",
+			"author": "amish tripati",
+			"price": "675",
+			"pages": "0-200",
+			"image": "ram.jpg"
+		},
+		{
+			"id": 2,
+			"name": "The Sita",
+			"author": "Amish Tripati",
+			"price": "856",
+			"Description": " India is beset with divisions, resentment and poverty. The people hate their rulers. They despise their corrupt and selfish elite. Chaos is just one spark away. Outsiders exploit these divisions. Raavan, the demon king of Lanka, grows increasingly powerful, sinking his fangs deeper into the hapless Sapt Sindhu.",
+			"pages": "0-250",
+			"image": "sita.jpg"
+		},
+		{
+			"id": 3,
+			"name": "RAVAN",
+			"author": "Amish Tripati",
+			"price": "686",
+			"Description": "A land in tumult, poverty and chaos. Most people suffer quietly. A few rebel. Some fight for a better world. Some for themselves. Some don’t give a damn. Raavan. Fathered by one of the most illustrious sages of the time. Blessed by the Gods with talents beyond all. Cursed by fate to be tested to the extremes.",
+			"pages": "0-150",
+			"image": "ravan.jpg"
+		},
+		{
+			"id": 4,
+			"name": "The Immortals of Meluha (Shiva Trilogy): 1",
+			"author": "Amish Tripati",
+			"price": "1,327",
+			"Description": "The inhabitants of that period called it the land of Meluha – a near perfect empire created many centuries earlier by Lord Ram, one of the greatest monarchs that ever lived.",
+			"pages": "0-255",
+			"image": "siva1.jpg"
+		},
+		{
+			"id": 5,
+			"name": "The Secret Of The Nagas (Shiva Trilogy-2)",
+			"author": "Amish Tripati",
+			"price": "1552",
+			"Description": "The hunt is on. The sinister Naga warrior has killed his friend Brahaspati and now stalks his wife Sati. Shiva, the Tibetan immigrant who is the prophesied destroyer of evil, will not rest till he finds his demonic adversary. His vengeance and the path to evil will lead him to the door of the Nagas, the serpent people. Of that he is certain.",
+			"pages": "0-555",
+			"image": "siva2.jpg"
+		},
+		{
+			"id": 6,
+			"name": "The Oath of the Vayuputras (Shiva Trilogy): 3",
+			"author": "Amish Tripati",
+			"price": "949",
+			"Description": "Shiva is gathering his forces. He reaches the Naga capital, Panchavati, and Evil is ﬁnally revealed. The Neelkanth prepares for a holy war against his true enemy, a man whose name instils dread in the ﬁercest of warriors.",
+			"pages": "0-623",
+			"image": "siva3.jpg"
+		},
+		{
+			"id": 7,
+			"name": "Revolution Twenty 20: Love. Corruption. Ambition",
+			"author": "Chetan Bhagat (Author)",
+			"price": "1551",
+			"Description": "The main characters of this book are people all Indian readers can easily identify with namely; Gopal, Raghav and Aarti. They are childhood friends, with one of the boys wanting to use his intelligence for raking in the money and the other wants to fight the rut of the system. And in between them is Aarti. What ensues is a tale of love, heartbreak, dark politicians, power of money, friendship turning enmity and true happiness. This is a gripping tale which is sure to capture the attention of the youth who will find many scenarios of the book relatable to their personal lives. Chetan Bhagat is a master at writing novels which are easy to understand and its lucid language ensures its widespread popularity.",
+			"pages": "0-205",
+			"image": "chetan1.jpg"
+		},
+		{
+			"id": 8,
+			"name": "2 States: The Story of My Marriage ",
+			"author": "Chetan Bhagat (Author)",
+			"price": "1968",
+			"Description": "This is a story of a love affair between two IIM students hailing from two different states, Punjab and Tamil Nadu. Miles apart in distance and custom, Krish and Ananya’s love blossoms within the confines of their college walls. But with the end of college and beginning of a career, the question of marriage does not stand far away.",
+			"pages": "0-325",
+			"image": "chetan2.jpg"
+		},
+		{
+			"id": 9,
+			"name": "One Indian Girl ",
+			"author": "Chetan Bhagat (Author)",
+			"price": "1968",
+			"Description": "Hi, I'm Radhika Mehta and I'm getting married this week. I work at Goldman Sachs, an investment bank. Thank you for reading my story. However, let me warn you.",
+			"pages": "0-325",
+			"image": "chetan33.jpg"
+		},
+		{
+			"id": 10,
+			"name": "Can Love Happen Twice ",
+			"author": "Ravinder Singh",
+			"price": "1968",
+			"Description": "In today's generation, love and relationships have lost the profound effect that they used to have. In a generation where people want to experience non-committal relationships; where love has been reduced to physical intimacy and larger-than-life displays of feelings, Ravinder Singh pens down his story where he portrays the long lost charm and magic of commitment and love. But, after having experienced the terrible loss of a loved one, is it possible to love someone that deeply and immensely again? Can you bare your soul and let yourself vulnerable in front of someone again, knowing that you are risking yet another terrible heartbreak?",
+			"pages": "0-325",
+			"image": "ravi1.jpg"
+		}
+
+
+	],
+
+	"details": [{
+			"id": 1,
+			"name": "scion of iksshwaku",
+			"Description": "Ayodhya is weakened by divisions. A terrible war has taken its toll. The damage runs deep. The demon King of Lanka, Raavan, does not impose his rule on the defeated. He, instead, imposes his trade. Money is sucked out of the empire. The Sapt Sindhu people descend into poverty, despondency and corruption. They cry for a leader to lead them out of the morass. Little do they appreciate that the leader is among them. One whom they know. A tortured and ostracised prince. A prince they tried to break. A prince called Ram.",
+			"pages": "0-325",
+			"image": "ravi1.jpg",
+			"images": "ram.jpg"
+		},
+		{
+			"id": 2,
+			"name": "The Sita",
+			"author": "Amish Tripati",
+			"price": "856",
+			"Description": " India is beset with divisions, resentment and poverty. The people hate their rulers. They despise their corrupt and selfish elite. Chaos is just one spark away. Outsiders exploit these divisions. Raavan, the demon king of Lanka, grows increasingly powerful, sinking his fangs deeper into the hapless Sapt Sindhu.",
+			"pages": "0-250",
+			"images": "sita.jpg"
+		},
+		{
+			"id": 3,
+			"name": "RAVAN",
+			"author": "Amish Tripati",
+			"price": "686",
+			"Description": "A land in tumult, poverty and chaos. Most people suffer quietly. A few rebel. Some fight for a better world. Some for themselves. Some don’t give a damn. Raavan. Fathered by one of the most illustrious sages of the time. Blessed by the Gods with talents beyond all. Cursed by fate to be tested to the extremes.",
+			"pages": "0-150",
+			"images": "ravan.jpg"
+		},
+		{
+			"id": 4,
+			"name": "The Immortals of Meluha (Shiva Trilogy): 1",
+			"author": "Amish Tripati",
+			"price": "1,327",
+			"Description": "The inhabitants of that period called it the land of Meluha – a near perfect empire created many centuries earlier by Lord Ram, one of the greatest monarchs that ever lived.",
+			"pages": "0-255",
+			"images": "siva1.jpg"
+		},
+		{
+			"id": 5,
+			"name": "The Secret Of The Nagas (Shiva Trilogy-2)",
+			"author": "Amish Tripati",
+			"price": "1552",
+			"Description": "The hunt is on. The sinister Naga warrior has killed his friend Brahaspati and now stalks his wife Sati. Shiva, the Tibetan immigrant who is the prophesied destroyer of evil, will not rest till he finds his demonic adversary. His vengeance and the path to evil will lead him to the door of the Nagas, the serpent people. Of that he is certain.",
+			"pages": "0-555",
+			"images": "siva2.jpg"
+		},
+		{
+			"id": 6,
+			"name": "The Oath of the Vayuputras (Shiva Trilogy): 3",
+			"author": "Amish Tripati",
+			"price": "949",
+			"Description": "Shiva is gathering his forces. He reaches the Naga capital, Panchavati, and Evil is ﬁnally revealed. The Neelkanth prepares for a holy war against his true enemy, a man whose name instils dread in the ﬁercest of warriors.",
+			"pages": "0-623",
+			"images": "siva3.jpg"
+		},
+		{
+			"id": 7,
+			"name": "Revolution Twenty 20: Love. Corruption. Ambition",
+			"author": "Chetan Bhagat (Author)",
+			"price": "1551",
+			"Description": "The main characters of this book are people all Indian readers can easily identify with namely; Gopal, Raghav and Aarti. They are childhood friends, with one of the boys wanting to use his intelligence for raking in the money and the other wants to fight the rut of the system. And in between them is Aarti. What ensues is a tale of love, heartbreak, dark politicians, power of money, friendship turning enmity and true happiness. This is a gripping tale which is sure to capture the attention of the youth who will find many scenarios of the book relatable to their personal lives. Chetan Bhagat is a master at writing novels which are easy to understand and its lucid language ensures its widespread popularity.",
+			"pages": "0-205",
+			"images": "chetan1.jpg"
+		},
+		{
+			"id": 8,
+			"name": "2 States: The Story of My Marriage ",
+			"author": "Chetan Bhagat (Author)",
+			"price": "1968",
+			"Description": "This is a story of a love affair between two IIM students hailing from two different states, Punjab and Tamil Nadu. Miles apart in distance and custom, Krish and Ananya’s love blossoms within the confines of their college walls. But with the end of college and beginning of a career, the question of marriage does not stand far away.",
+			"pages": "0-325",
+			"images": "chetan2.jpg"
+		},
+		{
+			"id": 9,
+			"name": "One Indian Girl ",
+			"author": "Chetan Bhagat (Author)",
+			"price": "1968",
+			"Description": "Hi, I'm Radhika Mehta and I'm getting married this week. I work at Goldman Sachs, an investment bank. Thank you for reading my story. However, let me warn you.",
+			"pages": "0-325",
+			"images": "chetan33.jpg"
+		},
+		{
+			"id": 10,
+			"name": "Can Love Happen Twice ",
+			"author": "Ravinder Singh",
+			"price": "1968",
+			"Description": "In today's generation, love and relationships have lost the profound effect that they used to have. In a generation where people want to experience non-committal relationships; where love has been reduced to physical intimacy and larger-than-life displays of feelings, Ravinder Singh pens down his story where he portrays the long lost charm and magic of commitment and love. But, after having experienced the terrible loss of a loved one, is it possible to love someone that deeply and immensely again? Can you bare your soul and let yourself vulnerable in front of someone again, knowing that you are risking yet another terrible heartbreak?",
+			"pages": "0-325",
+			"images": "ravi1.jpg"
+		}
+	]
+}
